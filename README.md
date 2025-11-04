@@ -1,1 +1,1 @@
-# agent-analytics-releases
+# Releases repo
